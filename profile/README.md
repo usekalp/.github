@@ -107,14 +107,13 @@ Secure your agent endpoints and internal APIs from day one.
 Spin up your first agent in seconds using our interactive CLI:
 
 ```bash
-npx create-kalp@latest my-agent
-cd my-agent
+npx create-kalp@latest
 ```
 
 Deploy it to the Edge:
 
 ```bash
-npx kalp push
+kalp push
 ```
 
 Your agent is now alive, stateful, and reachable via secure webhooks.
@@ -125,4 +124,4 @@ Your agent is now alive, stateful, and reachable via secure webhooks.
 
 - Website: `usekalp.com`
 - Documentation: `docs.usekalp.com`
-- Community: Twitter / X
+- Community: Twitter / X `x.com/usekalp`
